@@ -1,0 +1,1 @@
+Estudo de Layout realizado em 05/2019, totalmente estático e não funcional.
